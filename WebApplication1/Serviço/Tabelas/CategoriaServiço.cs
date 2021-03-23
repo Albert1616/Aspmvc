@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Modelo.Tabelas;
 using Persistencia.DAL.Tabelas;
 
+
 namespace Serviço.Tabelas
 {
     public class CategoriaServiço
